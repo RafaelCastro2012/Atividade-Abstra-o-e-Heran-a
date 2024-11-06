@@ -1,0 +1,8 @@
+C:\Users\2DTG\Desktop\POO\ClasseLivro\ClasseLivro\bin\Debug\ClasseLivro.exe.config
+C:\Users\2DTG\Desktop\POO\ClasseLivro\ClasseLivro\bin\Debug\ClasseLivro.exe
+C:\Users\2DTG\Desktop\POO\ClasseLivro\ClasseLivro\bin\Debug\ClasseLivro.pdb
+C:\Users\2DTG\Desktop\POO\ClasseLivro\ClasseLivro\obj\Debug\ClasseLivro.csproj.AssemblyReference.cache
+C:\Users\2DTG\Desktop\POO\ClasseLivro\ClasseLivro\obj\Debug\ClasseLivro.csproj.SuggestedBindingRedirects.cache
+C:\Users\2DTG\Desktop\POO\ClasseLivro\ClasseLivro\obj\Debug\ClasseLivro.csproj.CoreCompileInputs.cache
+C:\Users\2DTG\Desktop\POO\ClasseLivro\ClasseLivro\obj\Debug\ClasseLivro.exe
+C:\Users\2DTG\Desktop\POO\ClasseLivro\ClasseLivro\obj\Debug\ClasseLivro.pdb
